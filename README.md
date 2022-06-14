@@ -1,8 +1,8 @@
-- Hi! I’m @ZilmarJunio
-- I’m interested in improve my skills 🥇
-- ☑️ I’m currently learning Javascript
-- I’m looking to collaborate on projects development 🤝
-- 📫 instagram: @zilmarjunio 🔹
+♦ Hi! I’m @ZilmarJunio
+▬ I’m interested in improve my skills 🥇
+▬ ☑️ I’m currently learning Javascript
+▬ I’m looking to collaborate on projects development 🤝
+♦ 📫 instagram: @zilmarjunio 🔹
 
 <!---
 ZilmarJunio/ZilmarJunio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
